@@ -1,0 +1,174 @@
+
+@media (max-width:1023){   
+    .btn{
+        padding: 18px 20px;
+    }
+
+    .contact-form .form-control{
+        padding: 20px;
+    }
+}
+
+@media (min-width: 740px) and (max-width: 1023px)
+{
+    #language-but{
+        margin-right: 66px;
+    }
+    .s-display-none{
+        display: none !important;
+    }
+    .s-full-width{
+        width: 100% !important;
+    }
+    .s-col-full{
+        width: 100% !important;
+    }
+
+    .s-mt-8{
+        margin-top: 8px !important;
+    }
+
+    #header{
+        overflow: hidden;
+    }
+
+    #header .mobile-menu-btn{
+        display: block;
+    }
+
+    #header .search-button{
+        display: none;
+    }
+    
+    #nav {
+        display: block;
+    }
+
+    #nav li a {
+        padding: 1px 24px;
+    }
+
+    #nav > li{
+        display: block;
+    }
+
+    #nav > li:first-child{
+        display: inline-block;
+    }
+
+    #nav .subnav{
+        position: initial;
+        background-color: #333;
+    }
+
+    #nav .subnav a{
+        color: #fff;
+        padding: 8px 56px;
+    }
+
+    #content .member-item{
+        margin-top: 30px;
+        width: 100%;
+    }
+
+    #content .member-img{
+        width: 60%;
+    }
+    
+    .contact-form{
+        margin-top: 16px;
+    }
+    #slider .text-heading{
+        font-size: 50px;
+    }
+
+    #slider .text-description{
+        font-size: 35px;
+    }
+
+}
+
+@media (max-width: 740px)
+{   
+    #language-but{
+        margin-right: 66px;
+    }
+    .s-display-none{
+        display: none !important;
+    }
+    .s-full-width{
+        width: 100% !important;
+    }
+    .s-col-full{
+        width: 100% !important;
+    }
+
+    .s-mt-8{
+        margin-top: 8px !important;
+    }
+
+    #header{
+        overflow: hidden;
+    }
+
+    #header .mobile-menu-btn{
+        display: block;
+    }
+
+    #header .search-button{
+        display: none;
+    }
+    
+    #nav {
+        display: block;
+    }
+
+    #nav li a {
+        padding: 1px 24px;
+    }
+
+    #nav > li{
+        display: block;
+    }
+
+    #nav > li:first-child{
+        display: inline-block;
+    }
+
+    #nav .subnav{
+        position: initial;
+        background-color: #333;
+    }
+
+    #nav .subnav a{
+        color: #fff;
+        padding: 8px 56px;
+    }
+
+    #slider .text-heading{
+        font-size: 35px;
+    }
+
+    #slider .text-description{
+        font-size: 20px;
+    }
+
+    #slider .text-content{
+        bottom: 10px;
+    }
+
+    #content .member-item{
+        margin-top: 30px;
+        width: 100%;
+    }
+
+    #content .member-img{
+        width: 60%;
+    }
+
+    
+    
+    .contact-form{
+        margin-top: 16px;
+    }
+}
